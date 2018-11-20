@@ -37,3 +37,14 @@ node app
 ```
 
 浏览器打开 http://localhost:8000/home.html
+
+### 项目结构
+
+```
+.
+├─ database/            # 数据库目录
+├─ middleware/             # 中间件
+├─ public/              # 发布的代码（静态资源）
+├─ routes/              # 服务端路由
+├── app.js         # 启动文件
+```
