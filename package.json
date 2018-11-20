@@ -1,0 +1,25 @@
+{
+    "name": "sun-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jsonwebtoken": "^8.3.0",
+        "koa": "^2.5.3",
+        "koa-body": "^4.0.4",
+        "koa-json": "^2.0.2",
+        "koa-jwt": "^3.5.1",
+        "koa-router": "^7.4.0",
+        "koa-static": "^5.0.0",
+        "koa-static-cache": "^5.1.2",
+        "koa2-cors": "^2.0.6",
+        "sequelize": "^4.41.1",
+        "sqlite3": "^4.0.4"
+    }
+}
