@@ -2,7 +2,7 @@
 
 ## 一个基于 Vue + Node 的多页面商城应用
 
-[效果预览](http://www.denglin.xyz:8000/home.html)  
+[效果预览](http://www.denglin.xyz/home.html)  
 [前端源码](https://github.com/BlameDeng/sun-client-demo)
 
 ### 技术栈
