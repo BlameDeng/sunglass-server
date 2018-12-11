@@ -1,6 +1,6 @@
 # Sunglass
 
-## 一个基于 Vue + Node 的多页面商城应用
+## React单页/Vue多页 商城应用
 
 [React 版单页预览](http://www.denglin.xyz)   
 [Vue 版多页预览](http://www.denglin.xyz/home.html)
