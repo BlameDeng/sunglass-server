@@ -2,13 +2,12 @@
 
 ## 一个基于 Vue + Node 的多页面商城应用
 
-[效果预览](http://www.denglin.xyz/home.html)  
-[前端源码](https://github.com/BlameDeng/sun-client-demo)
+[React 版单页预览](http://www.denglin.xyz)   
+[Vue 版多页预览](http://www.denglin.xyz/home.html)
 
 ### 技术栈
 
-**前端**：Vue + Vue-Router + Vuex  
-**后端**：Node + Koa2 + Sequelize
+Node + Koa2 + Sequelize
 
 ### 实现的页面
 
@@ -43,8 +42,8 @@ node app
 ```
 .
 ├─ database/            # 数据库目录
-├─ middleware/             # 中间件
+├─ middleware/          # 中间件
 ├─ public/              # 发布的代码（静态资源）
 ├─ routes/              # 服务端路由
-├── app.js         # 启动文件
+├── app.js              # 启动文件
 ```
